@@ -1,0 +1,4 @@
+files:
+  - source: src/*/i18n/en_US.csv
+    translation: /%original_path%/%locale_with_underscore%.csv
+    scheme: 'identifier,source_or_translation'
